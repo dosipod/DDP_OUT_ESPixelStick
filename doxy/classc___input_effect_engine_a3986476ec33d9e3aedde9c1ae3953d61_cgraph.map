@@ -1,0 +1,10 @@
+<map id="c_InputEffectEngine::PollFlash" name="c_InputEffectEngine::PollFlash">
+<area shape="rect" id="node1" title=" " alt="" coords="5,77,143,117"/>
+<area shape="rect" id="node2" href="$class_fast_timer.html#acd3946e3c51632727ad0a4eef47563e7" title=" " alt="" coords="191,5,351,31"/>
+<area shape="rect" id="node3" href="$class_fast_timer.html#a405ba0c8e0b6b111326da0e5588342b1" title=" " alt="" coords="201,55,341,80"/>
+<area shape="rect" id="node4" href="$classc___input_effect_engine.html#af6c8141b2b5d63e69151cb0f07fe9281" title=" " alt="" coords="202,105,339,145"/>
+<area shape="rect" id="node8" href="$class_fast_timer.html#ae9fd21e0e04f87197a49ad166d0ec1e3" title="&lt; Start the module" alt="" coords="197,169,345,195"/>
+<area shape="rect" id="node5" href="$classc___input_effect_engine.html#aff4693217ee5e68868068613b318a281" title=" " alt="" coords="399,105,536,145"/>
+<area shape="rect" id="node6" href="$classc___input_effect_engine.html#a4faf62f24ce641ec7999f5e246eb458c" title=" " alt="" coords="584,105,721,145"/>
+<area shape="rect" id="node7" href="$classc___output_mgr.html#abe0292b6380f75279c4758c2b2e4e465" title=" " alt="" coords="769,112,976,137"/>
+</map>

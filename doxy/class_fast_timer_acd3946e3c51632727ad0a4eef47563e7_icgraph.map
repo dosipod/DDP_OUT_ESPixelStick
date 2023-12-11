@@ -1,0 +1,7 @@
+<map id="FastTimer::CancelTimer" name="FastTimer::CancelTimer">
+<area shape="rect" id="node1" title=" " alt="" coords="579,35,739,60"/>
+<area shape="rect" id="node2" href="$class_fast_timer.html#abcba4aeca10d03ec192ba31b4e55025f" title="&lt; Start up the driver and put it into a safe mode" alt="" coords="384,5,531,31"/>
+<area shape="rect" id="node3" href="$classc___input_effect_engine.html#a3986476ec33d9e3aedde9c1ae3953d61" title=" " alt="" coords="389,55,526,95"/>
+<area shape="rect" id="node4" href="$classc___input_effect_engine.html#a77cbebfae3207a36a760ed4e5b439c66" title="Call from loop(), renders Input data." alt="" coords="199,55,336,95"/>
+<area shape="rect" id="node5" href="$classfsm___play_effect__state___playing_effect.html#a0bd06217392513ebcc5d436896e73550" title=" " alt="" coords="5,55,151,95"/>
+</map>

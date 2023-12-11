@@ -1,0 +1,14 @@
+<map id="fsm_PlayEffect_state" name="fsm_PlayEffect_state">
+<area shape="rect" id="node1" title=" " alt="" coords="211,97,356,122"/>
+<area shape="rect" id="node2" href="$classc___input_f_p_p_remote_play_effect.html" title=" " alt="" coords="899,185,1093,210"/>
+<area shape="rect" id="node4" href="$classfsm___play_effect__state___idle.html" title=" " alt="" coords="544,69,717,94"/>
+<area shape="rect" id="node5" href="$classfsm___play_effect__state___playing_effect.html" title=" " alt="" coords="558,119,703,159"/>
+<area shape="rect" id="node3" href="$classc___input_f_p_p_remote_play_item.html" title=" " alt="" coords="537,246,724,271"/>
+<area shape="rect" id="node6" href="$class_fast_timer.html" title=" " alt="" coords="5,349,87,374"/>
+<area shape="rect" id="node7" href="$classc___input_effect_engine.html" title=" " alt="" coords="562,474,699,499"/>
+<area shape="rect" id="node12" href="$structc___input_effect_engine_1_1_flash_info__t.html" title=" " alt="" coords="215,409,352,449"/>
+<area shape="rect" id="node8" href="$classc___input_common.html" title=" " alt="" coords="225,474,342,499"/>
+<area shape="rect" id="node9" href="$structc___input_effect_engine_1_1_c_r_g_b.html" title=" " alt="" coords="215,524,352,564"/>
+<area shape="rect" id="node10" href="$structc___input_effect_engine_1_1_effect_descriptor__s.html" title=" " alt="" coords="215,588,352,628"/>
+<area shape="rect" id="node11" href="$structc___input_effect_engine_1_1d_c_r_g_b.html" title=" " alt="" coords="215,652,352,692"/>
+</map>

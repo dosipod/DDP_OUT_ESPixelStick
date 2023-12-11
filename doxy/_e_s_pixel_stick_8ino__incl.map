@@ -1,0 +1,33 @@
+<map id="/github/workspace/ESPixelStick/ESPixelStick.ino" name="/github/workspace/ESPixelStick/ESPixelStick.ino">
+<area shape="rect" id="node1" title=" " alt="" coords="255,5,433,45"/>
+<area shape="rect" id="node2" title=" " alt="" coords="385,695,461,720"/>
+<area shape="rect" id="node3" href="$_e_s_pixel_stick_8h.html" title=" " alt="" coords="823,548,953,573"/>
+<area shape="rect" id="node10" href="$_e_f_update_8h.html" title=" " alt="" coords="144,174,256,199"/>
+<area shape="rect" id="node11" title=" " alt="" coords="154,93,249,119"/>
+<area shape="rect" id="node12" href="$_input_mgr_8hpp.html" title=" " alt="" coords="531,328,682,353"/>
+<area shape="rect" id="node13" href="$_file_mgr_8hpp.html" title=" " alt="" coords="349,475,448,500"/>
+<area shape="rect" id="node19" href="$_output_mgr_8hpp.html" title=" " alt="" coords="231,401,388,427"/>
+<area shape="rect" id="node21" href="$_network_mgr_8hpp.html" title=" " alt="" coords="1307,401,1496,427"/>
+<area shape="rect" id="node24" href="$_web_mgr_8hpp.html" title=" " alt="" coords="330,93,446,119"/>
+<area shape="rect" id="node27" href="$_f_p_p_discovery_8h.html" title=" " alt="" coords="766,93,949,119"/>
+<area shape="rect" id="node4" title=" " alt="" coords="1265,621,1333,647"/>
+<area shape="rect" id="node5" title=" " alt="" coords="965,621,1069,647"/>
+<area shape="rect" id="node6" href="$memdebug_8h.html" title=" " alt="" coords="375,621,471,647"/>
+<area shape="rect" id="node7" href="$_const_names_8hpp.html" title=" " alt="" coords="1093,621,1216,647"/>
+<area shape="rect" id="node8" href="$_g_p_i_o___defs_8hpp.html" title=" " alt="" coords="698,621,811,647"/>
+<area shape="rect" id="node9" href="$_fast_timer_8hpp.html" title=" " alt="" coords="835,621,941,647"/>
+<area shape="rect" id="node20" href="$external_input_8h.html" title=" " alt="" coords="835,475,941,500"/>
+<area shape="rect" id="node14" title=" " alt="" coords="271,548,350,573"/>
+<area shape="rect" id="node15" title=" " alt="" coords="374,548,423,573"/>
+<area shape="rect" id="node16" title=" " alt="" coords="448,548,499,573"/>
+<area shape="rect" id="node17" title=" " alt="" coords="523,548,570,573"/>
+<area shape="rect" id="node18" title=" " alt="" coords="595,548,653,573"/>
+<area shape="rect" id="node22" href="$_wi_fi_driver_8hpp.html" title=" " alt="" coords="1357,475,1464,500"/>
+<area shape="rect" id="node23" title=" " alt="" coords="1381,548,1440,573"/>
+<area shape="rect" id="node25" title=" " alt="" coords="531,174,690,199"/>
+<area shape="rect" id="node26" title=" " alt="" coords="331,174,455,199"/>
+<area shape="rect" id="node28" href="$_input_f_p_p_remote_play_file_8hpp.html" title=" " alt="" coords="852,167,1041,207"/>
+<area shape="rect" id="node29" href="$_input_f_p_p_remote_play_item_8hpp.html" title=" " alt="" coords="883,255,1080,280"/>
+<area shape="rect" id="node30" href="$_input_f_p_p_remote_play_file_fsm_8hpp.html" title=" " alt="" coords="541,401,760,427"/>
+<area shape="rect" id="node31" href="$fseq_8h.html" title=" " alt="" coords="745,255,858,280"/>
+</map>

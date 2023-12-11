@@ -1,0 +1,9 @@
+<map id="fsm_PlayFile_state_Idle::Start" name="fsm_PlayFile_state_Idle::Start">
+<area shape="rect" id="node1" title=" " alt="" coords="5,79,139,119"/>
+<area shape="rect" id="node2" href="$classfsm___play_file__state___starting.html#ad394ce5f02f91b924c1e7873fb1a2a3c" title=" " alt="" coords="187,79,320,119"/>
+<area shape="rect" id="node3" href="$classc___f_p_p_discovery.html#a6ef4a34e0c4a6fe52ac7b0ee4034f4dd" title=" " alt="" coords="372,47,551,87"/>
+<area shape="rect" id="node7" href="$classc___input_f_p_p_remote_play_item.html#a18aa37d56d43b19d1b5801a7a304e06c" title=" " alt="" coords="368,111,555,151"/>
+<area shape="rect" id="node4" href="$classc___network_mgr.html#adb2bfe0b52822c8b9936696d9d03031d" title=" " alt="" coords="603,5,789,31"/>
+<area shape="rect" id="node5" href="$fseq_8h.html#a5d05476d4f29f4fbc1769c4b186d45d3" title=" " alt="" coords="664,55,728,80"/>
+<area shape="rect" id="node6" href="$fseq_8h.html#a3acd03a9c12a4b6126f59bbe3442f141" title=" " alt="" coords="664,104,728,129"/>
+</map>

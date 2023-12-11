@@ -1,0 +1,9 @@
+<map id="c_FPPDiscovery::GenerateFppSyncMsg" name="c_FPPDiscovery::GenerateFppSyncMsg">
+<area shape="rect" id="node1" title=" " alt="" coords="569,101,748,141"/>
+<area shape="rect" id="node2" href="$classfsm___play_file__state___starting.html#ad394ce5f02f91b924c1e7873fb1a2a3c" title=" " alt="" coords="378,37,511,77"/>
+<area shape="rect" id="node6" href="$classfsm___play_file__state___stopping.html#a8da7990c94c79959b3893fdeac5c8233" title=" " alt="" coords="378,101,511,141"/>
+<area shape="rect" id="node7" href="$classfsm___play_file__state___playing_file.html#a7c3203657c7115e7c12bc41344d7c997" title=" " alt="" coords="368,165,521,205"/>
+<area shape="rect" id="node3" href="$classfsm___play_file__state___idle.html#ae4f238b51f02ae7efe147df340077fe8" title=" " alt="" coords="187,37,320,77"/>
+<area shape="rect" id="node4" href="$classfsm___play_file__state___error.html#a158cb0287a3ce9aeec887a56f5f50006" title=" " alt="" coords="5,5,139,45"/>
+<area shape="rect" id="node5" href="$classfsm___play_file__state___error.html#af91cbc71869fac92d8775b67937c43a8" title=" " alt="" coords="5,69,139,109"/>
+</map>

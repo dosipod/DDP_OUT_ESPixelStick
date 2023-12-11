@@ -1,0 +1,7 @@
+<map id="fsm_PlayList_state_Idle::Init" name="fsm_PlayList_state_Idle::Init">
+<area shape="rect" id="node1" title=" " alt="" coords="191,101,325,141"/>
+<area shape="rect" id="node2" href="$classfsm___play_list__state___wait_for_start.html#a9926923d98c92f45e00aa5b2210e9b4f" title=" " alt="" coords="6,5,142,45"/>
+<area shape="rect" id="node3" href="$classfsm___play_list__state___playing_file.html#a87d5bf05866338d3a0c2aca0d2dda50e" title=" " alt="" coords="7,69,141,109"/>
+<area shape="rect" id="node4" href="$classfsm___play_list__state___playing_effect.html#aa33727f0d728e2ddc9239e285e323bd7" title=" " alt="" coords="5,133,143,173"/>
+<area shape="rect" id="node5" href="$classfsm___play_list__state___paused.html#a02b07c2944b7cbde563ca9b51d955084" title=" " alt="" coords="7,197,141,237"/>
+</map>

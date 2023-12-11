@@ -1,0 +1,14 @@
+<map id="fsm_PlayFile_state_Stopping::Poll" name="fsm_PlayFile_state_Stopping::Poll">
+<area shape="rect" id="node1" title=" " alt="" coords="5,179,139,219"/>
+<area shape="rect" id="node2" href="$classc___file_mgr.html#a98e34d829e7d324400091213a4416bf9" title=" " alt="" coords="201,38,355,63"/>
+<area shape="rect" id="node4" href="$classc___f_p_p_discovery.html#a6ef4a34e0c4a6fe52ac7b0ee4034f4dd" title=" " alt="" coords="189,125,367,165"/>
+<area shape="rect" id="node8" href="$classfsm___play_file__state___idle.html#aec3b675c72070641bb54eb10ee20a84e" title=" " alt="" coords="445,219,578,259"/>
+<area shape="rect" id="node10" href="$classc___input_f_p_p_remote_play_file.html#ac9b4b56c2a719407dc09530078d609de" title=" " alt="" coords="187,264,369,304"/>
+<area shape="rect" id="node3" href="$classc___file_mgr.html#a5744b69d4ab94abb4a8839fa295153db" title=" " alt="" coords="427,5,596,45"/>
+<area shape="rect" id="node5" href="$classc___network_mgr.html#adb2bfe0b52822c8b9936696d9d03031d" title=" " alt="" coords="418,70,605,95"/>
+<area shape="rect" id="node6" href="$fseq_8h.html#a5d05476d4f29f4fbc1769c4b186d45d3" title=" " alt="" coords="479,119,543,145"/>
+<area shape="rect" id="node7" href="$fseq_8h.html#a3acd03a9c12a4b6126f59bbe3442f141" title=" " alt="" coords="479,169,543,194"/>
+<area shape="rect" id="node9" href="$classc___input_f_p_p_remote_play_file.html#a2848f54d1ec8462d0fc54a47c564b035" title=" " alt="" coords="653,219,836,259"/>
+<area shape="rect" id="node11" href="$classc___file_mgr.html#a9d269a5325ae97f480a9c8e7671c862e" title=" " alt="" coords="417,283,605,309"/>
+<area shape="rect" id="node12" href="$classfsm___play_file__state.html#acca480317740eade01072debaf792573" title=" " alt="" coords="445,333,578,373"/>
+</map>
